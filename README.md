@@ -7,6 +7,7 @@
 
 ## Задание 2
 ### Файл .gitlab-ci.yml
+```yaml
 stages:
   - test
 
