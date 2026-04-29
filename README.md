@@ -18,6 +18,7 @@ test:
   image: alpine:latest
   script:
     - echo ""
+```
 
 ![Скриншот активного Runner в GitLab](img/Task2_1.png)
 ![Скриншот успешно выполненного Pipeline](img/Task2_2.png)
